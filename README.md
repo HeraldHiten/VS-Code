@@ -76,7 +76,7 @@ Before you begin, ensure you have met the following requirements:
 To get started with this project, follow these steps:
 1. Clone the repository to your local machine:
    ```bash
-   git clone 
+   git clone https://github.com/HeraldHiten/VS-Code
    ```
 
 2. Create a virtual environment (optional but recommended):
@@ -102,6 +102,6 @@ To get started with this project, follow these steps:
    python app.py
    ```
 
-Access the application in your web browser by navigating to `http://localhost:5000`.
+Access the application in your web browser by navigating to `http://127.0.0.1:5000`.
 
 ---

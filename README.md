@@ -76,7 +76,7 @@ Before you begin, ensure you have met the following requirements:
 To get started with this project, follow these steps:
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/HeraldHiten/VS-Code
+   git clone https://github.com/HeraldHiten/VS-Code.git
    ```
 
 2. Create a virtual environment (optional but recommended):
